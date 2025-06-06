@@ -1,1 +1,1 @@
-# Weight Lifiting Tracker App
+# Weight Lifting Tracker App
